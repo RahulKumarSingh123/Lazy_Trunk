@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Lazy_Trunk",
-    "slug": "Lazy_Trunk",
+    "slug": "lazytrunk",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e6ae5864-44f7-4557-9348-730151ae4529"
+      }
+    },
+    "owner": "rahul_kumar_singh_9389"
   }
 }
